@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .App-logo {
@@ -27,6 +31,32 @@
 .App-link {
   color: #61dafb;
 }
+.white{
+  color: white;
+}
+.cityModalHeight{
+  height: 15em;
+}
+.cursor-pointer{
+  cursor: pointer !important;
+}
+.activeItem{
+  background-color: #51bb9882 !important;
+  pointer-events: none;
+}
+.clearBg{
+  background-image: url('./assets/backgrounds/clear.jpg');
+}
+/* .cloudsBg{
+  background-image: url('./assets/backgrounds/clouds.jpg');
+}
+.rainBg{
+  background-image: url('./assets/backgrounds/thunder.jpg');
+}
+.thunderBg{
+  background-image: url('./assets/backgrounds/thunder.jpg');
+} */
+
 
 @keyframes App-logo-spin {
   from {

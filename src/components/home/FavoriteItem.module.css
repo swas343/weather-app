@@ -1,0 +1,32 @@
+.item{
+    width: 13%;
+    min-height: 80px;
+    background-color: #331f1f33;
+    margin: 10px;
+    display: inline-block;
+}
+.item:hover{
+    background-color: #00000047;
+    cursor: pointer;
+}
+
+.item p{
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.item i{
+    margin: 0 auto;
+    
+}
+
+.noFavorite{
+    width: 50%;
+    min-height: 80px;
+    background-color: #331f1f33;
+    margin: 10px;
+    display: inline-block;
+    margin: 0 auto;
+}

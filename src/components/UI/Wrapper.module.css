@@ -1,0 +1,15 @@
+.wrapper{
+    width: 80%;
+    min-height: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f7f782;
+    border: none;
+    color: black;
+    margin: auto;
+}
+.wrapper header{
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}

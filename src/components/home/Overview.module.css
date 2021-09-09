@@ -1,0 +1,15 @@
+.icon{
+    color: white;
+}
+.icon img{
+    height: 85px;
+}
+
+.icon span{
+    font-size: 100px;
+    margin-left: 20px;
+}
+
+.icon p{
+    font-size: 20px;
+}

@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1271157,
+        "name": "Goa",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 74.083328,
+            "lat": 15.33333
+        }
+    },
+    {
+        "id": 2640574,
+        "name": "Patna",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -4.50457,
+            "lat": 55.363701
+        }
+    },
+    {
+        "id": 1261481,
+        "name": "New Delhi",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.23114,
+            "lat": 28.61282
+        }
+    },
+    {
+        "id": 1270711,
+        "name": "Guna",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.316673,
+            "lat": 24.65
+        }
+    },
+    {
+        "id": 1275841,
+        "name": "Bhopal",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.400002,
+            "lat": 23.26667
+        }
+    },
+    {
+        "id": 1269743,
+        "name": "Indore",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 75.833298,
+            "lat": 22.71792
+        }
+    },
+    {
+        "id": 1275339,
+        "name": "Mumbai",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 72.847939,
+            "lat": 19.01441
+        }
+    },
+    {
+        "id": 1279259,
+        "name": "Agra",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 78.01667,
+            "lat": 27.183332
+        }
+    },
+    {
+        "id": 1278710,
+        "name": "Amritsar",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 74.865562,
+            "lat": 31.63306
+        }
+    },
+    {
+        "id": 1278715,
+        "name": "Amreli",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 71.23333,
+            "lat": 21.616671
+        }
+    },
+    {
+        "id": 1266050,
+        "name": "Kota",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 83.133331,
+            "lat": 24.450001
+        }
+    },
+    {
+        "id": 1278805,
+        "name": "Amethi",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 81.050003,
+            "lat": 28.01667
+        }
+    },
+    {
+        "id": 1270583,
+        "name": "Gwalior",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 78.179169,
+            "lat": 26.22361
+        }
+    },
+    {
+        "id": 1256525,
+        "name": "Siliguri",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 88.433327,
+            "lat": 26.700001
+        }
+    },
+    {
+        "id": 1256523,
+        "name": "Shillong",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 91.883133,
+            "lat": 25.56892
+        }
+    },
+    {
+        "id": 1256312,
+        "name": "Sikkim",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 88.5,
+            "lat": 27.75
+        }
+    },
+    {
+        "id": 1177654,
+        "name": "Gujrat",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 74.078972,
+            "lat": 32.572842
+        }
+    },
+    {
+        "id": 1176734,
+        "name": "Hyderabad",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 68.373657,
+            "lat": 25.39242
+        }
+    },
+    {
+        "id": 1259229,
+        "name": "Pune",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 73.855347,
+            "lat": 18.519569
+        }
+    },
+    {
+        "id": 1277333,
+        "name": "Bengaluru",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.603287,
+            "lat": 12.97623
+        }
+    }
+
+]
